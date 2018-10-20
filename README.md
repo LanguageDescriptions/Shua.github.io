@@ -3,5 +3,5 @@ This webpage contains materials coming from the field methods class at Universit
 
 Lexicon
 
-__*[Lexicon](Lexicon/lexicon%20database.html)*__
+__*[Lexicon](https://Languagedescriptions.github.io/Shwakhwe/Lexicon/lexicon%20database.html)*__
 
